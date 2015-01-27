@@ -1,0 +1,8 @@
+developer:~/Documents$ mkdir SumTwoNumbers
+developer:~/Documents$ cd SumTwoNumbers
+developer:~/Documents/SumTwoNumbers$ leafpad _7_ConsoleBasedCompilation.java
+developer:~/Documents/SumTwoNumbers$ javac _7_ConsoleBasedCompilation.java
+developer:~/Documents/SumTwoNumbers$ java _7_ConsoleBasedCompilation
+Enter your first integer n->3
+Enter your second integer m->4
+n+m=7 developer:~/Documents/SumTwoNumbers$ 
